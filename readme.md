@@ -65,3 +65,7 @@ Once the server is running, you can use an API development environment like Inso
 
 # [Walkthrough Video](https://drive.google.com/file/d/1HATXIIidfBBXXkJWc7LDOxZeA9-ODpvJ/view)
 
+## Collaboration
+
+Meg Meyers
+
